@@ -9,13 +9,13 @@
 "Visited places" = "Посещенные места";
 "Moments" = "Моменты"; // or "Воспоминания" (memories).
 "Trips" = "Поездки";
-"Tap the ‘+’ button to create trips" = "Нажмите + для нового путешествия"; // if we use a car: "Нажмите + для новой поездки"
+"Tap the ‘+’ button to create trips" = "Нажмите + для нового путешествия";
 "Places you have visited" = "Посетили ранее"; // or long version "Места, которые вы посетили"
 "Settings" = "Настройки";
 "Save" = "Сохранить";
-"Personal" = "Личный"; // Not sure about that, like personal cabinet?
+"Personal" = "Личный";
 "Enter your name here" = "Введите ваше имя" // or a shorter version "Ваше имя";
-"Enter where you live here" = "Укажите ваше местоположение"; // mean "enter your location". Not sure about that.
+"Enter where you live here" = "Укажите ваше местоположение";
 "App guide" = "Инструкция"; // or "Ознакомиться с приложением" (meet the app, introduction)
 "Links" = "Ссылки";
 "Rate on App Store" = "Оценить в App Store";
@@ -55,4 +55,4 @@
 "Are you sure you want to leave" = "Вы уверены, что хотите уйти?"; // or "Вы уверены, что хотите закончить?" want to end
 "The changes you made will not be saved" = "Изменения не будут сохранены";
 "Stay" = "Остаться";
-"Leave" = "Покинуть"; // for example: leave the current trip
+"Leave" = "Выйти";
