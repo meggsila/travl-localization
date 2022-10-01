@@ -12,7 +12,7 @@ If you do create a new branch (not as a pull request) , dont forget to merge it 
 2. copy the en.lproj folder 
 3. add it next to the other folders. 
 4. rename it to yourLanguageCode.lproj (use https://www.ibabbleon.com/iOS-Language-Codes-ISO-639.html if you don't know the code)
-5. edit the strings file and add your localisations
+5. edit the strings file and add your translations
 6. Add a commit message and commit & push
 
 
