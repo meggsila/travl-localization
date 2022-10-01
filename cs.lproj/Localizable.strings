@@ -1,0 +1,54 @@
+/* 
+  Localizable.strings
+  travl-localization
+
+  Created by Megi Sila on 29.9.22.
+  
+*/
+
+"Visited places" = "Navštívená místa";
+"Moments" = "Okamžiky";
+"Trips" = "Výlety";
+"Tap the ‘+’ button to create trips" = "Kliknutím na '+' vytvoříš výlet";
+"Places you have visited" = "Navštívená místa";
+"Settings" = "Nastavení";
+"Save" = "Uložit";
+//your personal page, where you edit your location and name
+"Personal" = "Osobní";
+"Enter your name here" = "Napiš své jméno";
+"Enter where you live here" = "Kde jsi bydlel";
+//explaining how the app works
+"App guide" = "Průvodce";
+"Links" = "Odkazy";
+"Rate on App Store" = "Ohodnoť aplikaci na App Store";
+"New trip" = "Nový výlet";
+"Dismiss" = "Zpět";
+"Create" = "Vytvořit";
+"Where to" = "Kam";
+"Start date" = "Datum začátku";
+"End date" = "Datum konce";
+"Rate this trip" = "Ohodnoť výlet";
+"Edit" = "Upravit";
+"Delete" = "Smazat";
+"Are you sure you want to delete this trip" = "Opravdu chceš smazat výlet"; // question mark?
+"Yes" = "Ano";
+"No" = "Ne";
+"Moments" = "Okamžiky"; // duplicite with line 10
+"Tap the ‘+’ button to create moments" = "Kliknutím na '+' vytvoříš okamžik";
+"New moment" = "Nový okamžik";
+"What would you call this moment?" = "Jak bys nazval tento okamžik?";
+"Describe your experience" = "Popiš své dojmy";
+"Edit & delete trips" = "Uprav nebo smaž výlet";
+"In order to edit or delete a trip, go to your profile where the list of trips is. Press and hold on a trip and the context menu will be shown. Then choose your action." = "Pokud chceš upravit nebo smazat výlet, tak přejdi do svého profilu. Tam najdeš seznam výletů, kde na konkrétném výletu dlouhým podržením vyvoláš menu, které ti nabídne možnosti další úpravy.";
+"Edit & delete moments" = "Uprav nebo smaž okamžik.";
+"Same as editing or deleting a trip. Notice: If you press on the delete action, the moment will be automatically deleted without asking you once more." = "Zde je to stejné jako u úprav výletu. Upozornění: pokud smažeš okamžik, tak se tak stane bez dalšího upozornění.";
+//like instagram stories
+"Add stories" = "Přidat příběh";
+"Press the small blue '+' button, next to the profile picture, to add stories. In order to view your stories press on the profile picture. To navigate between stories press on the left or right of the image and swipe down to dismiss." = "Kliknutím na modré tlačítko '+', vedle profilové fotky, přidáš příběh. Pokud si chceš příběh prohlédnout, tak klikni na profilovou fotku. Pro přecházení mezi příběhy klikni na levý nebo pravý kraj obrázku. Přejetím dolu příběh zavřeš.";
+"Please fill all the information" = "Prosím, vyplň všechny údaje";
+"Ok" = "Rozumím";
+//leaving the window or App
+"Are you sure you want to leave" = "Opravdu chceš odejít"; // question mark?
+"The changes you made will not be saved" = "Provedené úpravy nebudou uloženy";
+"Stay" = "Zůstat";
+"Leave" = "Odejít";
