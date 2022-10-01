@@ -2,7 +2,7 @@
   Localizable.strings
   travl-localization
 
-  Created by Megi Sila on 29.9.22.
+  Created by Lena Stöxen on 01.10.2022.
   
 */
 
@@ -17,9 +17,10 @@
 "Personal" = "Profil"; 
 "Enter your name here" = "Gib hier deinen Namen ein";
 "Enter where you live here" = "Trage hier ein wo du lebst";
+//explaining how the app works
 "App guide" = "Anleitung";
 "Links" = "Links";
-"Rate on App Store" = "Bewerte die App im AppStore";
+"Rate on App Store" = "Bewerte die App im App Store";
 "New trip" = "Neuer Ausflug";
 "Dismiss" = "Schließen";
 "Create" = "Hinzufügen";
@@ -29,7 +30,7 @@
 "Rate this trip" = "Bewerte diesen Ausflug";
 "Edit" = "Bearbeiten";
 "Delete" = "Löschen";
-"Are you sure you want to delete this trip" = "Bist du dir sicher, dass du diesen Ausflug löschen müchtest?";
+"Are you sure you want to delete this trip" = "Bist du dir sicher, dass du diesen Ausflug löschen möchtest?";
 "Yes" = "Ja";
 "No" = "Nein";
 "Moments" = "Momente";
@@ -38,21 +39,12 @@
 "What would you call this moment?" = "Wie möchtest du diesen Moment nennen?";
 "Describe your experience" = "Beschreibe dein Erlebnis";
 "Edit & delete trips" = "Bearbeite & lösche deine Ausflüge";
-
-
 "In order to edit or delete a trip, go to your profile where the list of trips is. Press and hold on a trip and the context menu will be shown. Then choose your action." = "Um einen Ausflug zu bearbeiten oder zu löschen, gehe zu deinem Profil, wo sich die Liste deiner Trips befindet. Drücke und halte einen Ausflug um ein Menü zu öffnen. Wähle dort eine Aktion.";
-
-
 "Edit & delete moments" = "Bearbeite & lösche Momente";
-
-
 "Same as editing or deleting a trip. Notice: If you press on the delete action, the moment will be automatically deleted without asking you once more." = "Genauso wie das Bearbeiten oder löschen eines Ausflugs. Beachte: Wenn du 'löschen' auswählst, wird der Moment direkt gelöscht; ohne dich noch einmal zu fragen.";
-
-
 //like instagram stories
 "Add stories" = "Stories hinzufügen"; //in case you dont mean instagram stories "Geschichten hinzufügen"
 "Press the small blue '+' button, next to the profile picture, to add stories. In order to view your stories press on the profile picture. To navigate between stories press on the left or right of the image and swipe down to dismiss." = "Nutze das kleine, blaue '+' (neben dem Profilbild) um Stories hinzuzufügen. Um die Stories zu sehen, berühre das Profilbild. Für die Navigation zwischen den Stories, drücke links oder rechts von den Bildern. Wische nach unten um die Ansicht zu schließen.";
-
 "Please fill all the information" = "Bitte trage alle Informationen ein";
 "Ok" = "Ok";
 //leaving the window or App
