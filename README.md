@@ -11,6 +11,6 @@ Travll is a digital travel diary created for people who love travelling. You can
 5. edit the strings file and add your translations
 6. add a commit message and commit & push
 
-  Thank you all for helping with the translations🤗
+  Thank you all for helping with the translations🤗 🇺🇸 🇨🇿 🇩🇪 🇮🇹 🇳🇴 🇷🇺 🇪🇸 🇹🇷 
 
 
