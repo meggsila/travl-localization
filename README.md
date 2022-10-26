@@ -2,14 +2,9 @@
 
 Thank you all for helping with the translations🤗
 
-Travll is a digital travel diary created for people who love travelling. You can save trips and recreate moments to take a look back as soon as they open the app. I have build the “instagram-like” stories feature programmatically,and I have also used MapKit to show the places the user have visited.
-https://apps.apple.com/us/app/travll/id6443721308
+Travll is a digital travel diary created for people who love travelling. You can save trips and recreate moments to take a look back as soon as they open the app. I have build the “instagram-like” stories feature programmatically,and I have also used MapKit to show the places the user have visited.  Let me know what you think 👇  https://apps.apple.com/us/app/travll/id6443721308
 
-Directly commit to the master
-Create a pull request, that way I have to confirm your changes first
-If you do create a new branch (not as a pull request), dont forget to merge it to the master branch
-
-## Here is a small guide on how to help translate, if you don't know what to:
+### Here is a small guide on how to help translate, if you don't know what to:
 
 1. clone the repository by using the clone link (you can easily do that with sublime merge or the github desktop version if you dont want to do it in the terminal)
 2. copy the en.lproj folder 
