@@ -1,6 +1,6 @@
 # travl-localization
 
-Travll is a digital travel diary created for people who love travelling. You can save trips and recreate moments to take a look back as soon as they open the app. I have build the “instagram-like” stories feature programmatically,and I have also used MapKit to show the places the user have visited.  Let me know what you think 👇  https://apps.apple.com/us/app/travll/id6443721308
+Travll is a digital travel diary created for people who love travelling. You can save trips and recreate moments to take a look back as soon as they open the app. I have build the “instagram-like” stories feature programmatically, and I have also used MapKit to show the places the user have visited.  Let me know what you think 👇  https://apps.apple.com/us/app/travll/id6443721308
 
 ### Here is a small guide on how to help translate:
 
